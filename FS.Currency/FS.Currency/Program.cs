@@ -7,6 +7,7 @@ namespace FS.Currency
         static void Main(string[] args)
         {
 
+
             Console.WriteLine("Hello World!");
         }
     }
