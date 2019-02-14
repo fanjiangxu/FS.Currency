@@ -1,0 +1,11 @@
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\bin\Debug\netcoreapp2.1\FS.Currency.deps.json
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\bin\Debug\netcoreapp2.1\FS.Currency.runtimeconfig.json
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\bin\Debug\netcoreapp2.1\FS.Currency.runtimeconfig.dev.json
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\bin\Debug\netcoreapp2.1\FS.Currency.dll
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\bin\Debug\netcoreapp2.1\FS.Currency.pdb
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\obj\Debug\netcoreapp2.1\FS.Currency.csprojAssemblyReference.cache
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\obj\Debug\netcoreapp2.1\FS.Currency.csproj.CoreCompileInputs.cache
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\obj\Debug\netcoreapp2.1\FS.Currency.AssemblyInfoInputs.cache
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\obj\Debug\netcoreapp2.1\FS.Currency.AssemblyInfo.cs
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\obj\Debug\netcoreapp2.1\FS.Currency.dll
+E:\FS\FS.net\FS.Currency\FS.Currency\FS.Currency\obj\Debug\netcoreapp2.1\FS.Currency.pdb
